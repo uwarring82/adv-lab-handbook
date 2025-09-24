@@ -19,3 +19,5 @@ jobs:
         run: python .ci/validate_part0_guard.py
       - name: Validate Notebook Ethical Header
         run: python .ci/validate_notebook_ethics.py
+      - name: Validate .ipynb JSON
+        run: python .ci/validate_ipynb_json.py
