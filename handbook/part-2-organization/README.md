@@ -51,6 +51,9 @@ All deadlines are binding. Extensions require approval from the course coordinat
 
 Communicate proactively. Inform your tutor immediately about absences, equipment issues, or data problems so that solutions can be arranged in time.
 
+### Reference documents
+- **Tutor’s Guide to Professional Boundaries** → see `handbook/part-8-contributing/tutor-boundaries.md`
+
 ## Assessment & Grading
 
 * **Entrance discussion:** Pass/fail; demonstrates readiness and understanding of safety aspects.
@@ -59,3 +62,7 @@ Communicate proactively. Inform your tutor immediately about absences, equipment
 * **Seminar:** Evaluated on clarity, structure, depth, and ability to answer questions.
 
 Passing the course requires satisfactory performance in **all** components. Grades are communicated via HISinOne after all deliverables are accepted.
+
+### Release cadence
+- **Freeze** during teaching weeks (only urgent fixes).
+- **Update** at semester start; publish a summary of changes.

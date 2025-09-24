@@ -70,6 +70,13 @@ The repository follows a modular structure:
 
 Unless otherwise stated, the contents are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
+### Binder reliability & local fallback
+
+Binder is a free shared service; first launch can be slow or queued. If Binder is unavailable:
+1) Create a local environment (`python -m venv .venv && source .venv/bin/activate`)
+2) `pip install -r requirements.txt`
+3) `jupyter notebook` and open the tutorial under `/notebooks/`.
+
 ## GitBook
 
 This repository is synced with GitBook for user-friendly navigation and reading.
