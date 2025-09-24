@@ -6,22 +6,20 @@ description: >-
 icon: scale-unbalanced-flip
 ---
 
-# ⚠️ Protective Notice (Temporary)
-
-The **Lab Alliance Compact (Part 0)** and full ethical framework are under construction.  
-Until these protections are live, students should note the following:
-
-- **This handbook currently contains only technical/scientific guidance.**
-- **Ethical safeguards, student rights, and escalation protocols are pending.**
-- In case of conflicts, misconduct, or safety concerns, use the contacts below immediately.
-
-> Interim feedback on misconduct, conflicts, or safety concerns may be sent to:
-> fachschaft@physik.uni-freiburg.de (student council, confidential)
-> or fp@physik.uni-freiburg.de (course coordinators Christian Weiser & Ulrich Warring).
-
 # README
 
-### Welcome
+## ⚠️ Protective Notice (Temporary)
+
+The **Lab Alliance Compact (Part 0)** and full ethical framework are under construction.\
+Until these protections are live, students should note the following:
+
+* **This handbook currently contains only technical/scientific guidance.**
+* **Ethical safeguards, student rights, and escalation protocols are pending.**
+* In case of conflicts, misconduct, or safety concerns, use the contacts below immediately.
+
+> Interim feedback on misconduct, conflicts, or safety concerns may be sent to: fachschaft@physik.uni-freiburg.de (student council, confidential) or fp@physik.uni-freiburg.de (course coordinators Christian Weiser & Ulrich Warring).
+
+## Welcome
 
 Dear students and tutors,
 
@@ -31,7 +29,7 @@ Tutors are here to support you, provide guidance, and give feedback. At the same
 
 We wish you success and an enjoyable experience in the Advanced Lab Classes!
 
-## Context
+### Context
 
 The Advanced Lab Classes (FP-I for B.Sc., FP-II for M.Sc. and M.Ed.) provide students with:
 
@@ -48,11 +46,11 @@ This handbook serves as a **living document** with:
 * Checklists and templates for reports and presentations.
 * Experiment-specific hints for FP-I and FP-II.
 
-## Mandatory Ethics Gateway
+### Mandatory Ethics Gateway
 
 Before engaging with any technical content, all students and tutors must review **Part 0 · Lab Alliance Compact** and record their acknowledgment via the companion one-pager. The acknowledgment is part of the official course audit trail and is a prerequisite for proceeding to Part 1.
 
-## Structure
+### Structure
 
 The repository follows a modular structure:
 
@@ -66,17 +64,18 @@ The repository follows a modular structure:
 * Part 7: Lab courses (FP-I & FP-II, experiment-specific hints)
 * Part 8: Contributing & governance
 
-## License
+### License
 
 Unless otherwise stated, the contents are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-### Binder reliability & local fallback
+#### Binder reliability & local fallback
 
 Binder is a free shared service; first launch can be slow or queued. If Binder is unavailable:
-1) Create a local environment (`python -m venv .venv && source .venv/bin/activate`)
-2) `pip install -r requirements.txt`
-3) `jupyter notebook` and open the tutorial under `/notebooks/`.
 
-## GitBook
+1. Create a local environment (`python -m venv .venv && source .venv/bin/activate`)
+2. `pip install -r requirements.txt`
+3. `jupyter notebook` and open the tutorial under `/notebooks/`.
+
+### GitBook
 
 This repository is synced with GitBook for user-friendly navigation and reading.
