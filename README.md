@@ -8,7 +8,15 @@ icon: scale-unbalanced-flip
 
 # Welcome to the Advanced Lab Classes
 
+### Welcome
 
+&#x20;  Dear students and tutors, &#x20;
+
+&#x20;  welcome to the _Advanced Lab Classes (FP-I & FP-II)_ at the Department of Physics, University of Freiburg. These courses are designed as interactive, self-guided training toward independent scientific work. You will plan and perform advanced experiments, apply statistical methods to analyze your data, and communicate yourfindings in written reports and oral presentations. &#x20;
+
+&#x20;  Tutors are here to support you, provide guidance, and give feedback. At the same time, your responsibility is to activelyprepare, take careful notes, and uphold the highest standards of scientific honesty. &#x20;
+
+&#x20;  We wish you success and an enjoyable experience in the Advanced Lab Classes!
 
 ## Context
 
@@ -31,14 +39,13 @@ This handbook serves as a **living document** with:
 
 The repository follows a modular structure:
 
-* Teil 0: Schnellstart & Navigation
-* Teil 1: Organisation & Rahmen
-* Teil 2: Wissenschaftliche Redlichkeit & Labornotizen
-* Teil 3: Statistik & Datenanalyse
-* Teil 4: Berichte & Präsentationen
-* Teil 5: FAQ & Best Practices
-* Teil 6: Laborkurse (FP-I & FP-II)
-* Teil 7: Mitmachen & Beiträge
+* Part 1: Organization & framework &#x20;
+* Part 2: Scientific integrity & lab notes &#x20;
+* Part 3: Statistics & data analysis
+* Part 4: Reports & presentations &#x20;
+* Part 5: FAQ & best practices &#x20;
+* Part 6: Lab courses (FP-I & FP-II, experiment-specific hints) &#x20;
+* Part 7: Contributing & governance
 
 ## License
 
