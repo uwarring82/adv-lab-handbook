@@ -4,6 +4,8 @@ description: >-
   University of Freiburg, Department of Physics
 ---
 
+> **Before proceeding**, complete the [Acknowledgment](./ACKNOWLEDGMENT.md).
+
 # Part 0 · Lab Alliance Compact
 
 ### Our Commitment to Collaborative Excellence

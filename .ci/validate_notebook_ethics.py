@@ -1,62 +1,18 @@
-#!/usr/bin/env python3
-"""Ensure notebooks start with protected ethical reminder."""
-from __future__ import annotations
-
-import json
-import sys
-from pathlib import Path
-
-REQUIRED_PHRASE = "Ethical Reminder"
-
-
-def validate_notebook(path: Path) -> list[str]:
-    issues: list[str] = []
-    try:
-        data = json.loads(path.read_text(encoding="utf-8"))
-    except Exception as exc:  # pragma: no cover - defensive
-        issues.append(f"{path}: failed to load JSON ({exc})")
-        return issues
-
+import json, sys, glob
+bad = []
+for nb in glob.glob("notebooks/**/*.ipynb", recursive=True) + glob.glob("notebooks/*.ipynb"):
+    with open(nb, "r", encoding="utf-8") as f:
+        data = json.load(f)
     cells = data.get("cells", [])
-    if not cells:
-        issues.append(f"{path}: notebook has no cells")
-        return issues
-
-    first = cells[0]
-    if first.get("cell_type") != "markdown":
-        issues.append(f"{path}: first cell must be markdown")
-    source = "".join(first.get("source", []))
-    if REQUIRED_PHRASE not in source:
-        issues.append(f"{path}: first cell must contain '{REQUIRED_PHRASE}'")
-
-    metadata = first.get("metadata", {})
-    editable = metadata.get("editable")
-    deletable = metadata.get("deletable")
-    if editable not in (False, "false", "False"):
-        issues.append(f"{path}: first cell metadata 'editable' must be false")
-    if deletable not in (False, "false", "False"):
-        issues.append(f"{path}: first cell metadata 'deletable' must be false")
-
-    return issues
-
-
-def main() -> int:
-    notebooks_dir = Path("notebooks")
-    if not notebooks_dir.exists():
-        return 0
-
-    problems: list[str] = []
-    for nb_path in sorted(notebooks_dir.rglob("*.ipynb")):
-        problems.extend(validate_notebook(nb_path))
-
-    if problems:
-        print("Notebook ethical header validation failed:", file=sys.stderr)
-        for problem in problems:
-            print(f" - {problem}", file=sys.stderr)
-        return 1
-
-    return 0
-
-
-if __name__ == "__main__":
-    sys.exit(main())
+    if not cells: bad.append(nb); continue
+    c0 = cells[0]
+    ok_md = c0.get("cell_type")=="markdown"
+    src = "".join(c0.get("source", []))
+    meta = c0.get("metadata", {})
+    ok_text = "Ethical Reminder" in src
+    ok_lock = (meta.get("editable")==False and meta.get("deletable") == False)
+    if not (ok_md and ok_text and ok_lock):
+        bad.append(nb)
+if bad:
+    print("Notebooks missing immutable Ethical Reminder header:", *bad, sep="\n  - ")
+    sys.exit(1)
