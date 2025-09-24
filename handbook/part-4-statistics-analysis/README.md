@@ -43,5 +43,7 @@ Sound data analysis underpins credible conclusions. Plan your workflow before co
 If you are unsure about a statistical method, consult your tutor early or use the statistics help desks offered by the Faculty of Physics.
 
 ## Interactive Tutorial (Pilot)
-Launch the in-browser notebook via our splash page (acknowledgment required):  
+
+Use the acknowledgment splash before launching the environment:
+
 [Launch the Linear Regression Pilot](../../binder_splash/index.md)

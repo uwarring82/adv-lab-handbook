@@ -7,11 +7,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Detect commit message
+        run: echo "GIT_COMMIT_MSG<<EOF" >> $GITHUB_ENV && git log -1 --pretty=%B >> $GITHUB_ENV && echo "EOF" >> $GITHUB_ENV
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
       - name: Validate Part 0 protection
+        env:
+          GIT_COMMIT_MSG: ${{ env.GIT_COMMIT_MSG }}
         run: python .ci/validate_part0_guard.py
       - name: Validate Notebook Ethical Header
         run: python .ci/validate_notebook_ethics.py
