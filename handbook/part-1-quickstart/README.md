@@ -6,6 +6,12 @@ description: >-
 
 # Part 1 · Quick Start Guide & Navigation
 
+### Semester Kickoff Briefing (5 minutes)
+- Why **Part 0 · Lab Alliance Compact** matters (rope-team culture; how to escalate concerns).
+- What counts as **good lab notes** and **honest analysis** (statistical vs. systematic).
+- Where to find **interactive tutorials** and background readings (Part 4).
+- Who to contact for **support** (tutor → coordinator → student council / ombudsperson).
+
 ## Overview
 
 The Advanced Lab Classes guide you through three recurring phases:

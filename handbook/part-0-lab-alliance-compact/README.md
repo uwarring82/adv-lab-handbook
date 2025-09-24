@@ -92,4 +92,6 @@ By proceeding with the Advanced Lab Classes, you acknowledge that you have read 
 
 Complete the [Student Acknowledgment](ACKNOWLEDGMENT.md) before accessing Part 1 materials.
 
+- **For tutors:** see the [Tutor’s Guide to Professional Boundaries](../part-8-contributing/tutor-boundaries.md).
+
 **Last Updated:** September 2025 • **Next Review:** September 2026

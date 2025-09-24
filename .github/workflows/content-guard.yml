@@ -21,3 +21,5 @@ jobs:
         run: python .ci/validate_notebook_ethics.py
       - name: Validate .ipynb JSON
         run: python .ci/validate_ipynb_json.py
+      - name: Validate external links (best-effort)
+        run: bash .ci/validate_links.sh
