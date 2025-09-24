@@ -7,3 +7,7 @@ Before running any notebook, please read and acknowledge the **Lab Alliance Comp
   - Weighted linear regression with `curve_fit`
   - Uncertainties and confidence intervals
   - Residual analysis and basic diagnostics
+- `gaussian_fit_with_uncertainty.ipynb` — Pilot tutorial:
+  - Gaussian peak fitting with `curve_fit`
+  - Uncertainties and residuals
+  - Systematic vs. statistical shifts in peak parameters
