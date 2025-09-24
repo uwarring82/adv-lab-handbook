@@ -43,5 +43,10 @@ Sound data analysis underpins credible conclusions. Plan your workflow before co
 If you are unsure about a statistical method, consult your tutor early or use the statistics help desks offered by the Faculty of Physics.
 
 ## Interactive Tutorial (Pilot)
-Launch the in-browser notebook via our splash page (acknowledgment required):  
+Launch the in-browser notebook via our splash page (acknowledgment required):
 [Launch the Linear Regression Pilot](../../binder_splash/index.md)
+
+> **Note on Binder**
+> - The **first launch may take 2–5 minutes**, as Binder builds the environment.  
+> - Subsequent launches will be faster.  
+> - If the environment fails to load, refresh or try again later (Binder servers are free and can be busy).
