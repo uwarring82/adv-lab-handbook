@@ -1,2 +1,2 @@
-# Part 6 · Lab courses
+# Part 4 · Lab courses
 
