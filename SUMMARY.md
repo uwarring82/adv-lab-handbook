@@ -13,4 +13,3 @@
 * [Part 7 · Lab Courses](handbook/part-7-labcourses/README.md)
   * [FP-I overview](handbook/part-7-labcourses/fp-i/README.md)
   * [FP-II overview](handbook/part-7-labcourses/fp-ii/README.md)
-* [Part 8 · Contributing](handbook/part-8-contributing/README.md)
