@@ -15,6 +15,7 @@ Follow the **IMRaD** structure (Introduction, Methods, Results, Discussion) and 
 4. **Methods** – Experimental setup, calibration procedures, measurement strategy, data acquisition tools, and uncertainty estimation approach.
 5. **Results** – Present processed data with uncertainties, tables, figures, and statistical evaluations. Highlight comparisons with theory.
 6. **Discussion** – Interpret findings, assess systematic limitations, compare to literature values, and suggest improvements.
+   > **Tip:** For a deeper treatment of uncertainty propagation, statistical fitting, and significance testing, see the *Further Reading & References* section in **Part 4 · Statistics & Data Analysis**.
 7. **Conclusion & Outlook** – Concise summary and potential future work.
 8. **References** – Consistent citation style (APA, Harvard, numeric) using reliable sources (textbooks, peer-reviewed articles, datasheets).
 9. **Appendices** – Raw data tables, extended derivations, additional plots, code snippets, or detailed uncertainty budgets.
