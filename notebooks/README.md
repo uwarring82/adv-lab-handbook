@@ -12,4 +12,3 @@ Before running any notebook, please read and acknowledge the **Lab Alliance Comp
   - Gaussian peak fitting with `curve_fit`
   - Parameter uncertainties and residuals
   - Effect of outliers and systematic offsets
-
