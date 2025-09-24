@@ -32,13 +32,36 @@ A well-planned start prevents last-minute stress and ensures a productive lab we
 
 ## Communication & Support
 
-* **Course coordinator:** Ulrich Warring – ✉️ ulrich.warring@physik.uni-freiburg.de
-* **Organization team:** Christof Bartels, Christian Weiser
+* **Course coordinators:** Christian Weiser & Ulrich Warring – ✉️ fp@physik.uni-freiburg.de
+* **Organization team:** Christof Bartels
 * **Tutors:** Assigned per experiment; contact via ILIAS messaging or institutional email.
 
 For organizational or scheduling issues, contact the coordinator. Technical and experiment-specific questions should be directed to your tutor. When in doubt, ask early.
 
 ***
+
+## 🚨 Interim Support & Contact
+
+While the Lab Alliance Compact (Part 0) is being finalized, please use these interim support channels:
+
+- **Course coordinators (organizational issues, conflict mediation):**
+  Christian Weiser & Ulrich Warring — fp@physik.uni-freiburg.de
+
+- **Student council (peer representation, advocacy):**
+  Fachschaft Physik Freiburg — fachschaft@physik.uni-freiburg.de
+
+- **University Ombudsperson (independent conflict resolution):**  
+  [University Ombudsperson contact page](https://www.uni-freiburg.de/ombudsperson)
+
+- **University Security (urgent safety, after hours):**  
+  +49 761 203-2222
+
+---
+
+> An anonymous interim feedback channel is available:  
+> Anonymous feedback form coming soon — for now please use email above.
+
+---
 
 ## Useful links
 

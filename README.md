@@ -6,6 +6,19 @@ description: >-
 icon: scale-unbalanced-flip
 ---
 
+# ⚠️ Protective Notice (Temporary)
+
+The **Lab Alliance Compact (Part 0)** and full ethical framework are under construction.  
+Until these protections are live, students should note the following:
+
+- **This handbook currently contains only technical/scientific guidance.**
+- **Ethical safeguards, student rights, and escalation protocols are pending.**
+- In case of conflicts, misconduct, or safety concerns, use the contacts below immediately.
+
+> Interim feedback on misconduct, conflicts, or safety concerns may be sent to:
+> fachschaft@physik.uni-freiburg.de (student council, confidential)
+> or fp@physik.uni-freiburg.de (course coordinators Christian Weiser & Ulrich Warring).
+
 # README
 
 ### Welcome
