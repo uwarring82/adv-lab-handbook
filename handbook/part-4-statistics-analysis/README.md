@@ -64,3 +64,4 @@ For those who wish to dive deeper into uncertainty propagation, fitting techniqu
 
 - **Open Textbook: Introduction to Statistics** (Open Textbook Library) — free online book for a broad statistics foundation beyond physics labs.  
   [Access Online](https://open.umn.edu/opentextbooks/textbooks/introduction-to-statistics)
+
