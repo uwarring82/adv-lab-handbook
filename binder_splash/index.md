@@ -7,4 +7,4 @@
 
 Click **Proceed** only if you acknowledge the Compact principles.
 
-[Proceed to Binder ➜](<INSERT_BINDER_URL_HERE>)
+[Proceed to Binder ➜](https://mybinder.org/v2/gh/uwarring82/adv-lab-handbook/main?filepath=notebooks/linear_regression_with_uncertainty.ipynb)
