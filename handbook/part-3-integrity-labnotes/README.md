@@ -2,7 +2,7 @@
 description: Expectations for scientific integrity and lab documentation
 ---
 
-# Part 2 · Scientific Integrity & Lab Notes
+# Part 3 · Scientific Integrity & Lab Notes
 
 ## Scientific Integrity
 Good scientific practice is non-negotiable. Throughout FP-I and FP-II you must:
@@ -37,3 +37,6 @@ A lab notebook is a legal document of your experimental work. Keep it **chronolo
 - During feedback meetings, have the notebook ready. Tutors may assess it as part of the lab performance grade.
 
 Meticulous notes save time when writing the report, support credible uncertainty estimates, and demonstrate your professionalism as an experimental physicist.
+
+## Reporting & Mediation
+Questions or concerns about ethical conduct, authorship, or documentation standards can be raised confidentially. Escalation pathways and mediation procedures are governed by the [ERB Charter Outline](../../governance/erb-charter-outline.md).

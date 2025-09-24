@@ -2,7 +2,7 @@
 description: Frequently asked questions and practical advice
 ---
 
-# Part 3 · FAQ & Best Practices
+# Part 6 · FAQ & Best Practices
 
 ## Frequently Asked Questions
 

@@ -2,7 +2,7 @@
 description: Course structure, roles, and workflow
 ---
 
-# Part 1 · Organization & Framework
+# Part 2 · Organization & Framework
 
 ## Purpose of the Advanced Lab Classes
 The Advanced Lab Classes (FP-I for B.Sc., FP-II for M.Sc. and M.Ed.) give you hands-on experience with modern physics experiments. By the end of the course you should be able to:

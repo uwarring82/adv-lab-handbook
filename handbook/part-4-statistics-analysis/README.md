@@ -2,7 +2,7 @@
 description: Guidance on data analysis, uncertainties, and fitting
 ---
 
-# Part 3 · Statistics & Data Analysis
+# Part 4 · Statistics & Data Analysis
 
 Sound data analysis underpins credible conclusions. Plan your workflow before collecting data and document every processing step.
 
@@ -41,3 +41,7 @@ Sound data analysis underpins credible conclusions. Plan your workflow before co
 - Ignoring correlations between measured quantities; consider covariance where applicable.
 
 If you are unsure about a statistical method, consult your tutor early or use the statistics help desks offered by the Faculty of Physics.
+
+## Interactive Tutorial (Pilot)
+Launch the in-browser notebook via our splash page (acknowledgment required):  
+[Launch the Linear Regression Pilot](../../binder_splash/index.md)

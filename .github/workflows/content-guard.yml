@@ -1,0 +1,17 @@
+name: Content Guard
+on:
+  pull_request:
+    branches: [ "main" ]
+jobs:
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Validate Part 0 protection
+        run: python .ci/validate_part0_guard.py
+      - name: Validate Notebook Ethical Header
+        run: python .ci/validate_notebook_ethics.py

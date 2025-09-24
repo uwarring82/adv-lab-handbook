@@ -2,7 +2,7 @@
 description: Quick orientation for FP-I & FP-II
 ---
 
-# Part 0 · Quick Start Guide & Navigation
+# Part 1 · Quick Start Guide & Navigation
 
 Welcome to the **Handbook for the Advanced Lab Classes (FP-I & FP-II)** at the Department of Physics, University of Freiburg. This page highlights the essentials for getting started quickly and finding the help you need.
 
@@ -53,10 +53,12 @@ For organizational or scheduling issues, contact the coordinator. Technical and 
 
 ## Navigation tips for this handbook
 
-- **Part 1** explains organizational rules, grading, and the typical timeline.
-- **Part 2** outlines expectations for scientific integrity and lab notebooks.
-- **Part 3** compiles data-analysis guidance with statistical checklists.
-- **Part 4** provides report and seminar presentation advice.
-- **Part 5** answers recurring questions and collects best practices.
+- **Part 2** explains organizational rules, grading, and the typical timeline.
+- **Part 3** outlines expectations for scientific integrity and lab notebooks.
+- **Part 4** compiles data-analysis guidance with statistical checklists.
+- **Part 5** provides report and seminar presentation advice.
+- **Part 6** answers recurring questions and collects best practices.
+- **Part 7** gathers experiment-specific information for FP-I and FP-II.
+- **Part 8** documents how to contribute improvements to this handbook.
 
 Bookmark sections relevant to your upcoming experiment and return as you progress through preparation, lab work, and reporting.

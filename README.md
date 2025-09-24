@@ -35,17 +35,23 @@ This handbook serves as a **living document** with:
 * Checklists and templates for reports and presentations.
 * Experiment-specific hints for FP-I and FP-II.
 
+## Mandatory Ethics Gateway
+
+Before engaging with any technical content, all students and tutors must review **Part 0 · Lab Alliance Compact** and record their acknowledgment via the companion one-pager. The acknowledgment is part of the official course audit trail and is a prerequisite for proceeding to Part 1.
+
 ## Structure
 
 The repository follows a modular structure:
 
-* Part 1: Organization & framework &#x20;
-* Part 2: Scientific integrity & lab notes &#x20;
-* Part 3: Statistics & data analysis
-* Part 4: Reports & presentations &#x20;
-* Part 5: FAQ & best practices &#x20;
-* Part 6: Lab courses (FP-I & FP-II, experiment-specific hints) &#x20;
-* Part 7: Contributing & governance
+* Part 0: Lab Alliance Compact (ethics gateway)
+* Part 1: Quick start guide & navigation
+* Part 2: Organization & framework &#x20;
+* Part 3: Scientific integrity & lab notes &#x20;
+* Part 4: Statistics & data analysis
+* Part 5: Reports & presentations &#x20;
+* Part 6: FAQ & best practices &#x20;
+* Part 7: Lab courses (FP-I & FP-II, experiment-specific hints) &#x20;
+* Part 8: Contributing & governance
 
 ## License
 
