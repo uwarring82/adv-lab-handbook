@@ -1,5 +1,6 @@
 # Table of contents
 
+* [README](README.md)
 * [Part 0 · Lab Alliance Compact](handbook/part-0-lab-alliance-compact/README.md)
   * [Acknowledgment](handbook/part-0-lab-alliance-compact/ACKNOWLEDGMENT.md)
   * [ERB Charter Outline](governance/erb-charter-outline.md)
