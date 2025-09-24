@@ -7,10 +7,11 @@ description: >-
 # Part 1 · Quick Start Guide & Navigation
 
 ### Semester Kickoff Briefing (5 minutes)
-- Why **Part 0 · Lab Alliance Compact** matters (rope-team culture; how to escalate concerns).
-- What counts as **good lab notes** and **honest analysis** (statistical vs. systematic).
-- Where to find **interactive tutorials** and background readings (Part 4).
-- Who to contact for **support** (tutor → coordinator → student council / ombudsperson).
+
+* Why **Part 0 · Lab Alliance Compact** matters (rope-team culture; how to escalate concerns).
+* What counts as **good lab notes** and **honest analysis** (statistical vs. systematic).
+* Where to find **interactive tutorials** and background readings (Part 4).
+* Who to contact for **support** (tutor → coordinator → student council / ombudsperson).
 
 ## Overview
 
@@ -38,8 +39,8 @@ A well-planned start prevents last-minute stress and ensures a productive lab we
 
 ## Communication & Support
 
-* **Course coordinators:** Christian Weiser & Ulrich Warring – ✉️ fp@physik.uni-freiburg.de
-* **Organization team:** Christof Bartels
+* **Lecturer:** Prof. Dr. Karl Jakobs
+* **Organization team:** Dr. Christof Bartels, Dr. Christian Weiser & Dr. Ulrich Warring – ✉️ fp@physik.uni-freiburg.de
 * **Tutors:** Assigned per experiment; contact via ILIAS messaging or institutional email.
 
 For organizational or scheduling issues, contact the coordinator. Technical and experiment-specific questions should be directed to your tutor. When in doubt, ask early.
@@ -50,24 +51,19 @@ For organizational or scheduling issues, contact the coordinator. Technical and 
 
 While the Lab Alliance Compact (Part 0) is being finalized, please use these interim support channels:
 
-- **Course coordinators (organizational issues, conflict mediation):**
-  Christian Weiser & Ulrich Warring — fp@physik.uni-freiburg.de
-
-- **Student council (peer representation, advocacy):**
-  Fachschaft Physik Freiburg — fachschaft@physik.uni-freiburg.de
-
-- **University Ombudsperson (independent conflict resolution):**  
+* **Course coordinators (organizational issues, conflict mediation):** Christof Bartels, Christian Weiser & Ulrich Warring — fp@physik.uni-freiburg.de
+* **Student council (peer representation, advocacy):** Fachschaft Physik Freiburg — fachschaft@physik.uni-freiburg.de
+* **University Ombudsperson (independent conflict resolution):**\
   [University Ombudsperson contact page](https://www.uni-freiburg.de/ombudsperson)
-
-- **University Security (urgent safety, after hours):**  
+* **University Security (urgent safety, after hours):**\
   +49 761 203-2222
 
----
+***
 
-> An anonymous interim feedback channel is available:  
+> An anonymous interim feedback channel is available:\
 > Anonymous feedback form coming soon — for now please use email above.
 
----
+***
 
 ## Useful links
 
