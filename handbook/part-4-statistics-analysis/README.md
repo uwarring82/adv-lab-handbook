@@ -42,15 +42,26 @@ Sound data analysis underpins credible conclusions. Plan your workflow before co
 
 If you are unsure about a statistical method, consult your tutor early or use the statistics help desks offered by the Faculty of Physics.
 
-## Interactive Tutorials
+## Interactive Tutorial (Pilot)
+Launch the in-browser notebook via our splash page (acknowledgment required):
+[Launch the Linear Regression Pilot](../../binder_splash/index.md)
 
-- **Linear Regression Pilot** (acknowledgment required):  
-  [Launch via splash page](../../binder_splash/index.md)
+## Further Reading & References
 
-- **Gaussian Fit Pilot** (acknowledgment required):  
-  [Launch via splash page](../../binder_splash/gaussian.md)
+For those who wish to dive deeper into uncertainty propagation, fitting techniques, or statistical foundations, the following resources are recommended:
 
-> **Note on Binder**
-> - The **first launch may take 2–5 minutes** while Binder builds the environment.  
-> - Subsequent launches will be faster.  
-> - If the environment fails to load, refresh or try again later (Binder is a free shared service).
+- **A Brief Introduction to Error Analysis and Propagation** (Fantner, EPFL) — concise, student-level PDF on random vs. systematic errors and propagation rules.  
+  [Download PDF](https://www.epfl.ch/labs/lben/wp-content/uploads/2018/07/Error-Propagation_2013.pdf)
+
+- **Introduction to Error and Uncertainty** (Columbia Physics Lab Guide) — practical introduction for lab students; explains uncertainty propagation with real examples.  
+  [Download PDF](https://www.physics.columbia.edu/sites/default/files/content/Lab%20Resources/Lab%20Guide%201_%20Introduction%20to%20Error%20and%20Uncertainty.pdf)
+
+- **Propagation of Errors — Basic Rules** (University of Washington) — concise formulas for sums, products, and general functions.  
+  [Download PDF](https://courses.washington.edu/phys431/propagation_errors_UCh.pdf)
+
+- **Introduction to Statistics and Data Analysis for Physicists** (University of Siegen / DESY) — comprehensive notes covering significance tests, goodness-of-fit, and systematic uncertainties.  
+  [Download PDF](https://www-library.desy.de/preparch/books/vstatmp_engl.pdf)
+
+- **Open Textbook: Introduction to Statistics** (Open Textbook Library) — free online book for a broad statistics foundation beyond physics labs.  
+  [Access Online](https://open.umn.edu/opentextbooks/textbooks/introduction-to-statistics)
+
