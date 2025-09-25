@@ -35,6 +35,9 @@ Residual plots reveal model misspecification and heteroscedasticity; combine the
 
 > 🎥 **See also:** Khan Academy’s *Residuals & least squares regression* for visual intuition.
 
+> 📌 **Modeling matters:** Ignoring relevant background terms can bias your fit parameters.  
+> See the **Background Modeling Tutorial** (Gaussian + linear background) in the Interactive Tutorials for an example.
+
 ## Recommended Workflow
 1. **Organize data** in structured folders (raw, processed, plots, scripts). Keep a README describing file contents.
 2. **Calibrate first:** Convert instrument readings using calibration curves or reference measurements before main analysis.
@@ -58,8 +61,12 @@ Residual plots reveal model misspecification and heteroscedasticity; combine the
 If you are unsure about a statistical method, consult your tutor early or use the statistics help desks offered by the Faculty of Physics.
 
 ## Interactive Tutorials
-- [Linear Regression with Uncertainty (Pilot)](../../binder_splash/index.md)
-- [Gaussian Fit with Uncertainty (Pilot)](../../binder_splash/gaussian.md)
+- **Linear Regression Pilot** (acknowledgment required):  
+  [Launch via splash page](../../binder_splash/index.md)
+- **Gaussian Fit Pilot** (acknowledgment required):  
+  [Launch via splash page](../../binder_splash/gaussian.md)
+- **Background Modeling Tutorial** (acknowledgment required):  
+  [Launch via splash page](../../binder_splash/background_modeling.md)
 
 ### How to use the interactive tutorials
 1. Open the tutorial via the **splash page** (acknowledgment required).
