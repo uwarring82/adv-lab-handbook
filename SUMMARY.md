@@ -11,7 +11,7 @@
 * [Part 5 · Reports & Presentations](handbook/part-5-reports-presentations/index.md)
 * [Part 6 · FAQ & Best Practices](handbook/part-6-faq-bestpractices/index.md)
 * [Part 7 · Lab Courses](handbook/part-7-labcourses/index.md)
-  * [Overview](handbook/part-7-labcourses/index.md)
+  *
   * [FP-I](part-7-labcourses/fp-i/index.md)
     * [Overview](handbook/part-7-labcourses/fp-i/index.md)
   * [FP-II](part-7-labcourses/fp-ii/index.md)

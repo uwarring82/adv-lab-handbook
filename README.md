@@ -17,7 +17,7 @@ Until these protections are live, students should note the following:
 * **Ethical safeguards, student rights, and escalation protocols are pending.**
 * In case of conflicts, misconduct, or safety concerns, use the contacts below immediately.
 
-> Interim feedback on misconduct, conflicts, or safety concerns may be sent to: fachschaft@physik.uni-freiburg.de (student council, confidential) or fp@physik.uni-freiburg.de (course coordinators Christian Weiser & Ulrich Warring).
+> Interim feedback on misconduct, conflicts, or safety concerns may be sent to: or fp@physik.uni-freiburg.de (course coordinators) or fachschaft@physik.uni-freiburg.de (student council, confidential)&#x20;
 
 ## Welcome
 
