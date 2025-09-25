@@ -6,7 +6,7 @@ description: >-
 
 # Part 1 · Quick Start Guide & Navigation
 
-### Semester Kickoff Briefing (5 minutes)
+### Semester Kickoff Briefing (15 minutes)
 
 * Why **Part 0 · Lab Alliance Compact** matters (rope-team culture; how to escalate concerns).
 * What counts as **good lab notes** and **honest analysis** (statistical vs. systematic).
@@ -51,7 +51,7 @@ For organizational or scheduling issues, contact the coordinator. Technical and 
 
 While the Lab Alliance Compact (Part 0) is being finalized, please use these interim support channels:
 
-* **Course coordinators (organizational issues, conflict mediation):** Christof Bartels, Christian Weiser & Ulrich Warring — fp@physik.uni-freiburg.de
+* **Course coordinators (organizational issues, conflict mediation):** fp@physik.uni-freiburg.de
 * **Student council (peer representation, advocacy):** Fachschaft Physik Freiburg — fachschaft@physik.uni-freiburg.de
 * **University Ombudsperson (independent conflict resolution):**\
   [University Ombudsperson contact page](https://www.uni-freiburg.de/ombudsperson)
@@ -70,7 +70,6 @@ While the Lab Alliance Compact (Part 0) is being finalized, please use these int
 * [ILIAS – Advanced Lab Classes](https://ilias.uni-freiburg.de)
 * [Scientific honesty guidelines](https://www.physik.uni-freiburg.de/redlichkeit-en)
 * [Library catalogue (Katalog PLUS)](https://www.ub.uni-freiburg.de/en/) for literature searches
-* [IT Services – VPN & Software](https://www.rz.uni-freiburg.de/services-en) for remote access to licensed tools
 
 ***
 
