@@ -23,7 +23,7 @@ Until these protections are live, students should note the following:
 
 Dear students and tutors,
 
-welcome to the _Advanced Lab Classes (FP-I & FP-II)_ at the Department of Physics, University of Freiburg. These courses are designed as interactive, self-guided training toward independent scientific work. You will plan and perform advanced experiments, apply statistical methods to analyze your data, and communicate yourfindings in written reports and oral presentations.
+welcome to the _Advanced Lab Classes_ at the Department of Physics, University of Freiburg. These courses are designed as interactive, self-guided training toward independent scientific work. You will plan and perform advanced experiments, apply statistical methods to analyze your data, and communicate yourfindings in written reports and oral presentations.
 
 Tutors are here to support you, provide guidance, and give feedback. At the same time, your responsibility is to activelyprepare, take careful notes, and uphold the highest standards of scientific honesty.
 
