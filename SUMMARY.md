@@ -11,5 +11,12 @@
 * [Part 5 · Reports & Presentations](handbook/part-5-reports-presentations/README.md)
 * [Part 6 · FAQ & Best Practices](handbook/part-6-faq-bestpractices/README.md)
 * [Part 7 · Lab Courses](handbook/part-7-labcourses/README.md)
-  * [FP-I overview](handbook/part-7-labcourses/fp-i/README.md)
-  * [FP-II overview](handbook/part-7-labcourses/fp-ii/README.md)
+  * [Overview](handbook/part-7-labcourses/README.md)
+  * FP-I
+    * [Overview](handbook/part-7-labcourses/fp-i/README.md)
+  * FP-II
+    * [Overview](handbook/part-7-labcourses/fp-ii/README.md)
+  * FP-Edu
+    * [Overview](handbook/part-7-labcourses/fp-edu/README.md)
+* [Part 8 · Contributing](handbook/part-8-contributing/README.md)
+  * [Tutor’s Guide to Professional Boundaries](handbook/part-8-contributing/tutor-boundaries.md)
