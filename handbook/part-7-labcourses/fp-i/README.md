@@ -7,3 +7,6 @@ This section will host the FP-I experiment catalog, requirements, and typical wo
 
 > **Propose a new experiment page:** copy the **Experiment Template** from  
 > `handbook/part-7-labcourses/_template/` into the corresponding FP folder and submit a PR.
+
+## Experiment Catalog (growing)
+- [Raman Spectroscopy](./raman-spectroscopy.md) — alignment, background handling, peak fitting.
