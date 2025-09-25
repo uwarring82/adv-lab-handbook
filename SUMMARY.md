@@ -11,13 +11,13 @@
 * [Part 5 · Reports & Presentations](handbook/part-5-reports-presentations/index.md)
 * [Part 6 · FAQ & Best Practices](handbook/part-6-faq-bestpractices/index.md)
 * [Part 7 · Lab Courses](handbook/part-7-labcourses/README.md)
-  * [Overview](handbook/part-7-labcourses/README.md)
-  * FP-I
+  *
+  * [FP-I](part-7-labcourses/fp-i/README.md)
     * [Overview](handbook/part-7-labcourses/fp-i/README.md)
     * [Raman Spectroscopy](handbook/part-7-labcourses/fp-i/raman-spectroscopy.md)
-  * FP-II
+  * [FP-II](part-7-labcourses/fp-ii/README.md)
     * [Overview](handbook/part-7-labcourses/fp-ii/README.md)
-  * FP-Edu
+  * [FP-Edu](part-7-labcourses/fp-edu/README.md)
     * [Overview](handbook/part-7-labcourses/fp-edu/README.md)
 * [Part 8 · Contributing](part-8-contributing/index.md)
   * [Tutor’s Guide to Professional Boundaries](handbook/part-8-contributing/tutor-boundaries.md)
