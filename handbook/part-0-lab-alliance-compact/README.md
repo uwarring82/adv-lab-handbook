@@ -86,12 +86,14 @@ Inclusivity, professionalism, continuous improvement through feedback.
 * This Compact is a **Sacred Document**. Changes require explicit approval by the **Ethical Review Board (ERB)**.
 * See: [ERB Charter Outline](../../governance/erb-charter-outline.md)
 
+---
+### For Tutors
+See the [Tutor’s Guide to Professional Boundaries](../part-8-contributing/tutor-boundaries.md) for expectations and rights.
+
 ## Acknowledgment
 
 By proceeding with the Advanced Lab Classes, you acknowledge that you have read and will uphold this Compact and are aware of support resources.
 
 Complete the [Student Acknowledgment](ACKNOWLEDGMENT.md) before accessing Part 1 materials.
-
-- **For tutors:** see the [Tutor’s Guide to Professional Boundaries](../part-8-contributing/tutor-boundaries.md).
 
 **Last Updated:** September 2025 • **Next Review:** September 2026

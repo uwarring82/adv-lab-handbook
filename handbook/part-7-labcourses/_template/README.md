@@ -1,13 +1,25 @@
-# Experiment Template (Replace with experiment name)
+# [Experiment Title]
+
 ## Learning goals
 - …
+
 ## Pre-lab reading & safety
 - …
+
 ## Setup & calibration checklist
 - …
+
+## Measurement plan
+- …
+
 ## Data & analysis checkpoints
 - …
+
 ## Typical pitfalls
 - …
-## Example figures/tables to include
+
+## Figures/tables to include
+- …
+
+## References
 - …
