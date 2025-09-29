@@ -8,22 +8,19 @@ icon: scale-unbalanced-flip
 
 # README
 
-## ⚠️ Protective Notice (Under Review)
+## ⚠️ Protective Notice
 
 This handbook is maintained for instructional convenience and evolves alongside the Advanced Laboratory programme. Updates may occur without prior notice. In all cases, the legally binding regulations of the University of Freiburg and the Faculty of Mathematics and Physics—especially the published statutes and examination regulations—take precedence over guidance given here.
 
 If you identify conflicts, omissions, or urgent risks, please contact the course coordination team or the Studiendekan without delay so corrective action can be taken.
 
-> **Academic integrity & exams**
-> The advanced lab classes follow the University of Freiburg’s integrity and examination regulations.
-> See **[Part 0 — Ethics, Academic Integrity & Examination Rules](handbook/part0-ethics-exam-rules.md)** for the compact, procedures, and program-specific links (Physics B.Sc./M.Sc., Master of Education). The mandatory quiz is completed on **ILIAS** per program.
+> **Academic integrity & exams** The advanced lab classes follow the University of Freiburg’s integrity and examination regulations. See [**Part 0 — Ethics, Academic Integrity & Examination Rules**](handbook/part0-ethics-exam-rules.md) for the compact, procedures, and program-specific links (Physics B.Sc./M.Sc., Master of Education). The mandatory quiz is completed on **ILIAS** per program.
 
 ### Administrative Contacts
 
-**Studiendekan (Department of Physics):**
-Prof. Dr. Jens Timmer — E-Mail: studiendekan@physik.uni-freiburg.de — Phone: +49 761 203 57600
+**Studiendekan (Department of Physics) –** E-Mail: studiendekan@physik.uni-freiburg.de
 
-For operational matters related to the Advanced Laboratory courses, please continue to use fp@physik.uni-freiburg.de (course coordination) or fachschaft@physik.uni-freiburg.de (student council, confidential).
+For operational matters related to the Advanced Laboratory courses, please continue to use **fp@physik.uni-freiburg.de (course coordination)** or fachschaft@physik.uni-freiburg.de (student council, confidential).
 
 ## Welcome
 
