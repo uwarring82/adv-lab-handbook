@@ -75,26 +75,13 @@ Preparation, honest lab notebooks, prompt communication, collaborative conduct.
 
 #### For Tutors
 
-Empowering guidance (not answers), predictable availability, professional boundaries, growth-minded feedback.
+Empowering guidance (not answers), predictable availability, professional boundaries, growth-minded feedback. See the [Tutor’s Guide to Professional Boundaries](../../index/tutor-boundaries.md) for expectations and rights.
 
 #### For Everyone
 
 Inclusivity, professionalism, continuous improvement through feedback.
 
-### Governance & Review
-
-* This Compact is a **Sacred Document**. Changes require explicit approval by the Advanced Laboratory leadership in consultation with the Faculty of Mathematics and Physics.
-
 ***
 
 #### For Tutors
 
-See the [Tutor’s Guide to Professional Boundaries](../part-8-contributing/tutor-boundaries.md) for expectations and rights.
-
-### Acknowledgment
-
-By proceeding with the Advanced Lab Classes, you acknowledge that you have read and will uphold this Compact and are aware of support resources.
-
-Complete the [Student Acknowledgment](broken-reference) before accessing Part 1 materials.
-
-**Last Updated:** September 2025 • **Next Review:** September 2026
