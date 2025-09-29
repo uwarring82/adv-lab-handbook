@@ -1,6 +1,6 @@
 # Ethics, Academic Integrity & Safety Rules
 
-## 0.0 Legal & Institutional Basis
+## Legal & Institutional Basis
 
 These advanced lab courses are bound by the **University of Freiburg’s Regulations on Safeguarding Academic Integrity** and by the **Study & Examination Regulations (SPO)** of the corresponding degree programs. In the event of conflict, the **official statutes prevail**. Key references:
 
@@ -14,7 +14,7 @@ These advanced lab courses are bound by the **University of Freiburg’s Regulat
 * Physics M.Sc.: Examination Regulations
 * Master of Education (teaching track): Study & Examination Regulations (e.g. M.Ed. SPO)
 
-### 0.1 What Constitutes Misconduct (Digest)
+### What Constitutes Misconduct (Digest)
 
 Intentional or grossly negligent acts include, but are not limited to:
 
@@ -26,7 +26,7 @@ Intentional or grossly negligent acts include, but are not limited to:
 
 Authoritative definitions, classification, and procedural rules follow from the University’s regulation cited above.
 
-### 0.2 Lab-Course Good Practice (Minimum Expectations)
+### Lab-Course Good Practice (Minimum Expectations)
 
 * Cite **everything** used: papers, datasets, code, algorithms, figures.
 * Maintain a **lab notebook** and a **git history** with meaningful commits.
@@ -34,15 +34,15 @@ Authoritative definitions, classification, and procedural rules follow from the 
 * In group work, **state each member’s contributions** explicitly in the report.
 * If an error is discovered post-submission, **notify instructors promptly** and provide a short **corrigendum**.
 
-### 0.3 Radiation & Laser Safety
+### Radiation & Laser Safety
 
 Before participating in any lab session involving radiation or lasers, students and tutors must hold **valid safety training**, valid for **12 months**. Training materials and modules are available on **ILIAS**. No access to the lab setup is permitted without completing the safety module and obtaining certification from the safety officer / instructor.
 
-### 0.4 Reporting & Procedure (Short Flow)
+### Reporting & Procedure (Short Flow)
 
 Suspicion or concern → **confidential Ombudsperson consultation** → if substantiated, referral to the competent committee (e.g. exam board) → decision & possible sanctions under the SPO. Students retain the **right to respond** to allegations and to **appeal** within the formal institutional process.
 
-### 0.5 Acknowledgment & ILIAS Quiz
+### Acknowledgment & ILIAS Quiz
 
 Before beginning any lab work, students are required to:
 
@@ -50,7 +50,7 @@ Before beginning any lab work, students are required to:
 2. Complete the **program-specific ILIAS quiz** on the course ILIAS page.
 3. Include the following statement (on lab log, cover page, or report):
 
-> “I confirm that I have read _Part 0 — Ethics, Academic Integrity & Safety Rules_ and the linked regulations of the University of Freiburg and my degree program. I will adhere to these principles in my lab work.”
+> “I confirm that I have read _Ethics, Academic Integrity & Safety Rules_ and the linked regulations of the University of Freiburg and my degree program. I will adhere to these principles in my lab work.”
 
 ***
 
