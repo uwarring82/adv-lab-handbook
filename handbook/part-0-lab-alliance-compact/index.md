@@ -6,9 +6,7 @@ description: >-
 
 # Part 0 · Lab Alliance Compact
 
-## Part 0 · Lab Alliance Compact
-
-#### Our Commitment to Collaborative Excellence
+#### Our Commitment
 
 You are embarking on a journey toward independent scientific work, and **you are not alone**. This Compact establishes our mutual commitments as we work together—students and tutors as partners in discovery.
 
@@ -54,7 +52,7 @@ You are embarking on a journey toward independent scientific work, and **you are
 
 #### 🚨 Immediate Safety Concerns
 
-* **Contact:** Laboratory supervisor.
+* **Contact:** Laboratory supervisor (0761 203-7645).
 * **After hours:** University security (0761 203-2222).
 
 #### ⚠️ Academic or Interpersonal Conflicts
@@ -65,7 +63,7 @@ You are embarking on a journey toward independent scientific work, and **you are
 
 * **Student Advisory:**
 * **University Ombudsperson:**
-* **Counseling Services:** \<placeholder email/phone>
+* **Counseling Services:**&#x20;
 
 ### Practical Expectations
 
@@ -75,13 +73,9 @@ Preparation, honest lab notebooks, prompt communication, collaborative conduct.
 
 #### For Tutors
 
-Empowering guidance (not answers), predictable availability, professional boundaries, growth-minded feedback. See the [Tutor’s Guide to Professional Boundaries](../../index/tutor-boundaries.md) for expectations and rights.
+Empowering guidance (not answers), predictable availability, professional boundaries, growth-minded feedback. See the [Tutor’s Guide to Professional Boundaries](../part-8-contributing/tutor-boundaries.md) for expectations and rights.
 
 #### For Everyone
 
 Inclusivity, professionalism, continuous improvement through feedback.
-
-***
-
-#### For Tutors
 
