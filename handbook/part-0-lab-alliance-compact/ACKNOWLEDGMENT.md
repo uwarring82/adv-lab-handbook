@@ -6,7 +6,7 @@
 * Scientific integrity & authorship standards
 * Shared responsibility between students and tutors
 * Rights (academic freedom, fair treatment) and safe reporting
-* Governance by the Ethical Review Board (ERB)
+* Governance and oversight coordinated by the Advanced Laboratory leadership and the Faculty of Mathematics and Physics
 
 > Your acknowledgment is **recorded as part of the course audit trail**. All technical content assumes prior acknowledgment of Part 0.
 
