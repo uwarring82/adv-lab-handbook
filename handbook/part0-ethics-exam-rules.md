@@ -1,54 +1,64 @@
-# Part 0 — Ethics, Academic Integrity & Examination Rules
+# Part 0 – Ethics, Academic Integrity & Examination Rules
 
-## 0.0 Legal & institutional basis
-These advanced lab courses are bound by the **University of Freiburg’s regulations on academic integrity** and the **study & examination regulations (SPO)** of the relevant programs. In case of any conflict, the **official statutes prevail**. Key references:
-- University of Freiburg, *Regulations on Safeguarding Academic Integrity* (English).  
-  (PDF)  
-- University page “Redlichkeit in der Wissenschaft” (Ombudsperson, process, contacts).  
-- Institute of Physics: “Redlichkeit in der Wissenschaft und gute wissenschaftliche Praxis” (overview, handout).  
+## Part 0 — Ethics, Academic Integrity & Safety Rules
 
-**Program statutes used by our cohorts:**
-- **Physics B.Sc. / (and MSc when available publicly):** Prüfungsordnung Physik (B.Sc., German, PDF).  
-- **Master of Education (teaching track):** Study & Examination Regulations (non-official consolidated text; General Part, German, PDF) and the FACE information pages.
+### 0.0 Legal & Institutional Basis
 
-## 0.1 What constitutes misconduct (digest)
-Intentional or grossly negligent:
-- **Fabrication/falsification** of data or figures; selective reporting that misleads  
-- **Plagiarism** (text, code, images, analysis) or use of AI/assistive tools beyond the stated rules without disclosure  
-- **Unauthorized collaboration/tools**; commissioning third-party work  
-- **Omitting uncertainties/negative data** so as to misrepresent results  
-- **Duplicate/auto-plagiarized submissions** across courses without disclosure  
-Authoritative definitions and procedures are governed by the University regulation above.
+These advanced lab courses are bound by the **University of Freiburg’s Regulations on Safeguarding Academic Integrity** and by the **Study & Examination Regulations (SPO)** of the corresponding degree programs. In the event of conflict, the **official statutes prevail**. Key references:
 
-## 0.2 Lab-course good practice (minimum expectations)
-- **Cite everything** used: papers, datasets, **code**, algorithms, figures.  
-- Maintain a **lab notebook** and **git history**; commit significant steps.  
-- Report **uncertainties, limitations, and negative results** transparently.  
-- In group work, **state each member’s contributions** in the report.  
-- If you discover an error after submission, **notify instructors** and file a brief **corrigendum**.
+* University of Freiburg — _Regulations on Safeguarding Academic Integrity_ (English PDF) ([uni-freiburg.de](https://uni-freiburg.de/wp-content/uploads/Uni-Freiburg-Ordnung-Redlichkeit-in-der-Wissenschaft-en.pdf?utm_source=chatgpt.com))
+* University “Redlichkeit in der Wissenschaft” (Ombudsperson, process, contacts)
+* Institute of Physics: _Redlichkeit in der Wissenschaft und gute wissenschaftliche Praxis_ (overview, handout)
 
-## 0.3 Reporting & procedure (short flow)
-Suspicion/concern → confidential **Ombudsperson** consultation → if substantiated, referral to the competent committee (e.g., exam board) → decision & possible sanctions under the SPO. Students have the **right to respond** and **appeal** within the formal process.
+**Program statutes (for this lab cohort):**
 
-## 0.4 Acknowledgment & ILIAS quiz
-Before working in the lab, students must:
-1) read this Part 0 and the linked institutional rules;  
-2) complete the **program-specific ILIAS quiz** (course page);  
-3) include the following statement (e.g. in the lab log or cover page):
+* Physics B.Sc.: Examination Regulations
+* Physics M.Sc.: Examination Regulations
+* Master of Education (teaching track): Study & Examination Regulations (e.g. M.Ed. SPO)
 
-> “I confirm that I have read *Part 0 — Ethics, Academic Integrity & Examination Rules* and the linked regulations of the University of Freiburg and my degree program. I will adhere to these principles in my lab work.”
+### 0.1 What Constitutes Misconduct (Digest)
 
-For preparation, see the self-check: `../assets/part0-checklist.md`.
+Intentional or grossly negligent acts include, but are not limited to:
 
-## 0.5 Program-specific links (maintained by staff)
-- **Physics B.Sc.** — Prüfungsordnung Physik (German, PDF).  
-- **Physics M.Sc.** — *(Add official link when the faculty publishes/points to the current PDF; until then, rely on the faculty study pages.)*  
-- **Master of Education (teaching track)** — General Part (German, PDF); FACE information/contacts.  
+* Fabrication or falsification of data or figures; selective reporting that misleads
+* Plagiarism (in text, code, images, analyses), or use of AI / assistive tools beyond allowed scope without disclosure
+* Unauthorized collaboration or tools; commissioning work from third parties
+* Omitting uncertainties, error bars, or negative data to misrepresent results
+* Duplicate or auto-plagiarized submissions across different courses without disclosure
 
----
-### Link sources (for editors)
-- University Integrity Regulation (EN PDF).  
-- Ombudsperson page (“Redlichkeit in der Wissenschaft”).  
-- Institute overview page (EN/DE) + Handout (EN PDF).  
-- Physics B.Sc. Prüfungsordnung (DE PDF).  
-- M.Ed. General Part, non-official consolidated text (DE PDF) & FACE pages.  
+Authoritative definitions, classification, and procedural rules follow from the University’s regulation cited above.
+
+### 0.2 Lab-Course Good Practice (Minimum Expectations)
+
+* Cite **everything** used: papers, datasets, code, algorithms, figures.
+* Maintain a **lab notebook** and a **git history** with meaningful commits.
+* Report **uncertainties**, limitations, and **negative results** transparently.
+* In group work, **state each member’s contributions** explicitly in the report.
+* If an error is discovered post-submission, **notify instructors promptly** and provide a short **corrigendum**.
+
+### 0.3 Radiation & Laser Safety
+
+Before participating in any lab session involving radiation or lasers, students and tutors must hold **valid safety training**, valid for **12 months**. Training materials and modules are available on **ILIAS**. No access to the lab setup is permitted without completing the safety module and obtaining certification from the safety officer / instructor.
+
+### 0.4 Reporting & Procedure (Short Flow)
+
+Suspicion or concern → **confidential Ombudsperson consultation** → if substantiated, referral to the competent committee (e.g. exam board) → decision & possible sanctions under the SPO. Students retain the **right to respond** to allegations and to **appeal** within the formal institutional process.
+
+### 0.5 Acknowledgment & ILIAS Quiz
+
+Before beginning any lab work, students are required to:
+
+1. Read this _Part 0_ and the linked institutional rules.
+2. Complete the **program-specific ILIAS quiz** on the course ILIAS page.
+3. Include the following statement (on lab log, cover page, or report):
+
+> “I confirm that I have read _Part 0 — Ethics, Academic Integrity & Safety Rules_ and the linked regulations of the University of Freiburg and my degree program. I will adhere to these principles in my lab work.”
+
+***
+
+#### Link Sources (for editors)
+
+* University Integrity Regulation (English PDF)
+* University Ombudsperson / “Redlichkeit in der Wissenschaft” page(s)
+* Institute of Physics “Redlichkeit / Good Practice” overview & handout
+* M.Ed. SPO / framework regulation (German, PDF) & FACE pages
