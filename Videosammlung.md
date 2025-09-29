@@ -38,19 +38,21 @@ Diese Sammlung gruppiert nützliche Video‑Kanäle, Webseiten und konkrete Vide
 - [NumPy Docs](https://numpy.org/) – Grundlagen für numerische Arrays und Zufallszahlen
 - [Jupyter Notebook](https://jupyter.org/) – interaktive Umgebung für Datenauswertung
 
+Diese Ressourcen eignen sich als Nachschlagewerke und für eigene Simulationen. Die Kombination aus Jupyter, NumPy/SciPy und Matplotlib ermöglicht die Auswertung von Versuchsdaten, das Durchführen von Monte‑Carlo‑Simulationen und das Anpassen von Kurven.
+
 ## 📊 Fehlerrechnung & Statistik
 
 ### Absoluter und relativer Messfehler
 
-- [Physikcoach (Deutsch, Anfänger)](https://www.youtube.com/watch?v=HqgrqLXmEN0)
-- [Mathe Peter (Deutsch, Fortgeschritten)](https://www.youtube.com/watch?v=dcUoLrKWVho)
+- [Physikcoach (Deutsch, Anfänger)](https://www.youtube.com/watch?v=HqgrqLXmEN0) – "Absoluter und relativer Messfehler" (Einsteiger).
+- [Mathe Peter (Deutsch, Fortgeschritten)](https://www.youtube.com/watch?v=dcUoLrKWVho) – "Absoluter und relativer Fehler – fortgeschritten".
 - [Alexander Stöger – Messgenauigkeit digitaler Messgeräte (Deutsch)](https://www.youtube.com/watch?v=qmCOUav9LQc)
-- [Alexander Stöger – Messgenauigkeit analoger Messgeräte (Deutsch)](https://www.youtube.com/watch?v=qGqCBvHqo44)
-- [VT Physics (Englisch, A Level)](https://www.youtube.com/watch?v=eVloUWTkpbI)
-
-Diese Ressourcen eignen sich als Nachschlagewerke und für eigene Simulationen. Die Kombination aus Jupyter, NumPy/SciPy und Matplotlib ermöglicht die Auswertung von Versuchsdaten, das Durchführen von Monte‑Carlo‑Simulationen und das Anpassen von Kurven.
+- [Alexander Stöger – Messgenauigkeit analoger Messgeräte (Deutsch)](https://www.youtube.com/watch?v=qGqCBvHqo44) – Videos zur Messgenauigkeit digitaler und analoger Messgeräte.
+- [VT Physics (Englisch, A Level)](https://www.youtube.com/watch?v=eVloUWTkpbI) – "Absolute and relative errors (A‑Level)" – englische Grundlagen.
 
 ### Fehlerfortpflanzung
+
+Die Fehlerfortpflanzung beschreibt, wie Messunsicherheiten durch eine Funktion hindurch propagieren. Für kleine Fehler linearisiert man die Funktion mittels Taylorentwicklung und kombiniert die Fehler quadratisch.
 
 - [Stephan Mueller (Deutsch, Zusammenfassung)](https://www.youtube.com/watch?v=l1jSdiz3Swo)
 - [Wikipedia (Deutsch)](https://de.wikipedia.org/wiki/Fehlerfortpflanzung)
