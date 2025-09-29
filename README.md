@@ -1,8 +1,7 @@
 ---
 description: >-
   This repository hosts the handbook for the Physics Advanced Laboratory Classes
-  at the University of Freiburg (Albert-Ludwigs-Universität Freiburg,
-  Physikalisches Institut).
+  at the Physikalisches Institut of the University of Freiburg.
 icon: scale-unbalanced-flip
 ---
 
