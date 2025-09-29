@@ -8,20 +8,6 @@ icon: scale-unbalanced-flip
 
 # README
 
-## ⚠️ Protective Notice
-
-This handbook is maintained for instructional convenience and evolves alongside the Advanced Laboratory programme. Updates may occur without prior notice. In all cases, the legally binding regulations of the University of Freiburg and the Faculty of Mathematics and Physics—especially the published statutes and examination regulations—take precedence over guidance given here.
-
-If you identify conflicts, omissions, or urgent risks, please contact the course coordination team or the Studiendekan without delay so corrective action can be taken.
-
-> **Academic integrity & Safety** The advanced lab classes follow the University of Freiburg’s integrity, and safety and examination regulations. See [**Ethics, Academic Integrity & Safety Rules**](index/part0-ethics-exam-rules.md) for the compact, procedures, and program-specific links (Physics B.Sc./M.Sc., Master of Education). A mandatory quiz is completed on **ILIAS** per program.
-
-### Administrative Contacts
-
-For operational matters related to the Advanced Laboratory courses, please continue to use **fp@physik.uni-freiburg.de (course coordination)** or fachschaft@physik.uni-freiburg.de (student council, confidential).
-
-**Studiendekan (Department of Physics) –** E-Mail: studiendekan@physik.uni-freiburg.de
-
 ## Welcome
 
 Dear students and tutors,
@@ -62,6 +48,20 @@ The repository follows a modular structure:
 * Part 6: FAQ & best practices
 * Part 7: Lab courses (FP-I & FP-II, experiment-specific hints)
 * Part 8: Contributing & governance
+
+## ⚠️ Protective Notice
+
+This handbook is maintained for instructional convenience and evolves alongside the Advanced Laboratory programme. Updates may occur without prior notice. In all cases, the legally binding regulations of the University of Freiburg and the Faculty of Mathematics and Physics—especially the published statutes and examination regulations—take precedence over guidance given here.
+
+If you identify conflicts, omissions, or urgent risks, please contact the course coordination team or the Studiendekan without delay so corrective action can be taken.
+
+> **Academic integrity & Safety** The advanced lab classes follow the University of Freiburg’s integrity, and safety and examination regulations. See [**Ethics, Academic Integrity & Safety Rules**](index/part0-ethics-exam-rules.md) for the compact, procedures, and program-specific links (Physics B.Sc./M.Sc., Master of Education). A mandatory quiz is completed on **ILIAS** per program.
+
+### Administrative Contacts
+
+For operational matters related to the Advanced Laboratory courses, please continue to use **fp@physik.uni-freiburg.de (course coordination)** or fachschaft@physik.uni-freiburg.de (student council, confidential).
+
+**Studiendekan (Department of Physics) –** E-Mail: studiendekan@physik.uni-freiburg.de
 
 ### License
 
