@@ -8,7 +8,7 @@ description: >-
 
 ### Semester Kickoff Briefing (15 minutes)
 
-* Why **Part 0 · Lab Alliance Compact** matters (rope-team culture; how to escalate concerns).
+* Why **Lab Alliance Compact** matters (rope-team culture; how to escalate concerns).
 * What counts as **good lab notes** and **honest analysis** (statistical vs. systematic).
 * Where to find **interactive tutorials** and background readings (Part 4).
 * Who to contact for **support** (tutor → coordinator → student council / ombudsperson).
