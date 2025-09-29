@@ -47,7 +47,7 @@ This handbook serves as a **living document** with:
 * Principles of scientific integrity and proper lab note taking.
 * Best practices for statistics, fits, and uncertainty estimation.
 * Checklists and templates for reports and presentations.
-* Experiment-specific hints for FP-I and FP-II.
+* Experiment-specific hints for individual labs
 
 ### Structure
 

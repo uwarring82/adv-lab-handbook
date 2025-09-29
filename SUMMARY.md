@@ -18,4 +18,3 @@
     * [Overview](handbook/part-7-labcourses/fp-ii/README.md)
   * [FP-Edu](part-7-labcourses/fp-edu/README.md)
     * [Overview](handbook/part-7-labcourses/fp-edu/README.md)
-* [Part 8 · Contributing](part-8-contributing/README.md)
