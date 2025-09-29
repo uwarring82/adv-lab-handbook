@@ -8,10 +8,10 @@
 * Rights (academic freedom, fair treatment) and safe reporting
 * Governance and oversight coordinated by the Advanced Laboratory leadership and the Faculty of Mathematics and Physics
 
-> Your acknowledgment is **recorded as part of the course audit trail**. All technical content assumes prior acknowledgment of Part 0.
-
-* [ ] Please acknowledge the Lab Alliance Compact on ILIAS.
-
-[Read the full Lab Alliance Compact](./)
+> Your acknowledgment is recorded as part of the course audit trail. All technical content assumes prior acknowledgment of Part 0.&#x20;
+>
+>
+>
+> **Please acknowledge the Lab Alliance Compact on ILIAS.**
 
 **Next:** [Part 1 · Quick Start](../part-1-quickstart/)
