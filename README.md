@@ -19,6 +19,10 @@ Until these protections are live, students should note the following:
 
 > Interim feedback on misconduct, conflicts, or safety concerns may be sent to: or fp@physik.uni-freiburg.de (course coordinators) or fachschaft@physik.uni-freiburg.de (student council, confidential)&#x20;
 
+> **Academic integrity & exams**  
+> The advanced lab classes are bound by the University of Freiburg’s integrity and examination regulations.  
+> See **[Part 0 — Ethics, Academic Integrity & Examination Rules](handbook/part0-ethics-exam-rules.md)** for the compact, procedures, and program-specific links (Physics B.Sc./M.Sc., Master of Education). The mandatory quiz is completed on **ILIAS** per program.
+
 ## Welcome
 
 Dear students and tutors,
