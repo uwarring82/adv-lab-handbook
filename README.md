@@ -49,15 +49,11 @@ This handbook serves as a **living document** with:
 * Checklists and templates for reports and presentations.
 * Experiment-specific hints for FP-I and FP-II.
 
-### Mandatory Ethics Gateway
-
-Before engaging with any technical content, all students and tutors must review **Part 0 · Lab Alliance Compact** and record their acknowledgment via the companion one-pager. The acknowledgment is part of the official course audit trail and is a prerequisite for proceeding to Part 1.
-
 ### Structure
 
 The repository follows a modular structure:
 
-* Part 0: Lab Alliance Compact (ethics gateway)
+* Part 0: Lab Alliance Compact (ethics, academic integrity & safety gateway)
 * Part 1: Quick start guide & navigation
 * Part 2: Organization & framework
 * Part 3: Scientific integrity & lab notes
@@ -70,15 +66,3 @@ The repository follows a modular structure:
 ### License
 
 Unless otherwise stated, the contents are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
-
-#### Binder reliability & local fallback
-
-Binder is a free shared service; first launch can be slow or queued. If Binder is unavailable:
-
-1. Create a local environment (`python -m venv .venv && source .venv/bin/activate`)
-2. `pip install -r requirements.txt`
-3. `jupyter notebook` and open the tutorial under `/notebooks/`.
-
-### GitBook
-
-This repository is synced with GitBook for user-friendly navigation and reading.
