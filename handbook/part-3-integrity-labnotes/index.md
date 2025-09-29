@@ -44,4 +44,4 @@ Meticulous notes save time when writing the report, support credible uncertainty
 
 ## Reporting & Mediation
 
-Questions or concerns about ethical conduct, authorship, or documentation standards can be raised confidentially. Escalation pathways and mediation procedures are governed by the [ERB Charter Outline](../../governance/erb-charter-outline.md).
+Questions or concerns about ethical conduct, authorship, or documentation standards can be raised confidentially with the course coordination team or the Studiendekan. They will involve the appropriate faculty or university ombudsperson channels when formal mediation is required.

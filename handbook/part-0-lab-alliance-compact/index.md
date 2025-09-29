@@ -83,8 +83,7 @@ Inclusivity, professionalism, continuous improvement through feedback.
 
 ## Governance & Review
 
-* This Compact is a **Sacred Document**. Changes require explicit approval by the **Ethical Review Board (ERB)**.
-* See: [ERB Charter Outline](../../governance/erb-charter-outline.md)
+* This Compact is a **Sacred Document**. Changes require explicit approval by the Advanced Laboratory leadership in consultation with the Faculty of Mathematics and Physics.
 
 ---
 ### For Tutors
