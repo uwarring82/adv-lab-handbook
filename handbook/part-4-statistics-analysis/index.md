@@ -107,23 +107,16 @@ For those who wish to dive deeper into uncertainty propagation, fitting techniqu
 
 **University handouts (open)**
 
-* Columbia Physics: _Introduction to Error and Uncertainty_ — lab-focused primer with examples (PDF).\
-  https://www.physics.columbia.edu/sites/default/files/content/Lab%20Resources/Lab%20Guide%201\_%20Introduction%20to%20Error%20and%20Uncertainty.pdf
-* Univ. of Washington: _Propagation of Errors — Basic Rules_ — compact formula sheet (PDF).\
-  https://courses.washington.edu/phys431/propagation\_errors\_UCh.pdf
-* Illinois (Grainger): _Basic Error Analysis_ — summary of random vs. systematic, common pitfalls (PDF).\
-  https://courses.grainger.illinois.edu/phys401/fa2017/lectures/Basic%20Error%20Analysis\_Fall%202017.pdf
+* Columbia Physics: _Introduction to Error and Uncertainty_ — lab-focused primer with examples ([PDF](https://www.physics.columbia.edu/sites/default/files/content/Lab%20Resources/Lab%20Guide%201_%20Introduction%20to%20Error%20and%20Uncertainty.pdf)).
+* Univ. of Washington: _Propagation of Errors — Basic Rules_ — compact formula sheet ([PDF](https://courses.washington.edu/phys431/propagation_errors_UCh.pdf)).
+* Illinois (Grainger): _Basic Error Analysis_ — summary of random vs. systematic, common pitfalls ([PDF](https://app.gitbook.com/u/DdiuQxoAEvU8BwszfXbaRlTGV1E3)).
 
 **Open courses**
 
-* MIT OCW: _What’s Significant in Laboratory Measurement? (Error Analysis Lecture)_ — measurement strategy & error thinking.\
-  https://ocw.mit.edu/courses/5-310-laboratory-chemistry-fall-2019/resources/lecture-4-whats-significant-in-laboratory-measurement-error-analysis-lecture/
+* MIT OCW: _What’s Significant in Laboratory Measurement? (Error Analysis Lecture)_ — [measurement strategy & error thinking.](https://ocw.mit.edu/courses/5-310-laboratory-chemistry-fall-2019/resources/lecture-4-whats-significant-in-laboratory-measurement-error-analysis-lecture/)
 
 **Videos (clear & student-friendly)**
 
-* StatQuest: _Linear Regression, Clearly Explained_ — least squares intuition & R².\
-  https://www.youtube.com/watch?v=7ArmBVF2dCs
-* StatQuest: _Using Linear Models for t-tests/ANOVA_ — extending regression logic.\
-  https://www.youtube.com/watch?v=R7xd624pR1A
-* Khan Academy: _Residuals & least squares regression_ — residual meaning and diagnostics.\
-  https://www.youtube.com/watch?v=yMgFHbjbAW8
+* StatQuest: [_Linear Regression, Clearly Explained_](https://www.youtube.com/watch?v=7ArmBVF2dCs) — least squares intuition & R².
+* StatQuest: [_Using Linear Models for t-tests/ANOVA_](https://www.youtube.com/watch?v=R7xd624pR1A) — extending regression logic.
+* Khan Academy: [_Residuals & least squares regression_](https://app.gitbook.com/u/DdiuQxoAEvU8BwszfXbaRlTGV1E3) — residual meaning and diagnostics.
