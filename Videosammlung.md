@@ -1,33 +1,33 @@
 # Videoquellen für Physik‑Praktika
 
-Diese Sammlung gruppiert nützliche Video‑Kanäle, Webseiten und konkrete Videos für Themen wie Fehlerrechnung, Statistik, lineare Regression und numerische Methoden. Die Links sind klickbar, sodass du sie in GitBook per Mausklick öffnen kannst.
+Diese Sammlung gruppiert nützliche Video‑Kanäle, Webseiten und konkrete Videos zu Themen wie Fehlerrechnung, Statistik, lineare Regression und den theoretischen Grundlagen der Praktikumsversuche.
 
 ## 📺 Kanäle
 
 ### Deutsch
 
-- [Daniel Jung](https://www.youtube.com/@MathebyDanielJung)
-- [Mathe Peter](https://www.youtube.com/@MathePeter/playlists)
-- [Stephan Mueller](https://www.youtube.com/@trinatphys)
-- [simpleclub Physik](https://www.youtube.com/@simpleclub_physik/playlists)
-- [simpleclub Mathe](https://www.youtube.com/@simpleclub_mathe)
-- [The Nilsor](https://www.youtube.com/@TheNilsor)
-- [Physikcoach](https://www.youtube.com/@physikcoach)
-- [Alexander Stöger](https://www.youtube.com/@et5m/featured)
-- [Jörn Loviscach](https://www.youtube.com/@JoernLoviscach)
+- [Daniel Jung](https://www.youtube.com/@MathebyDanielJung) – kurze, mathematisch fokussierte Erklärvideos (Schul‑ bis Grundstudiumsniveau).
+- [Mathe Peter](https://www.youtube.com/@MathePeter/playlists) – umfangreiche Videos für Analysis, Lineare Algebra, Statistik und Fehlerrechnung.
+- [Stephan Mueller](https://www.youtube.com/@trinatphys) – tiefere Erklärungen zu Physik (Wellen, Quantenmechanik) und Mathematik, häufig auch experimentell orientiert (z. B. Spektralanalysen).
+- [simpleclub Physik](https://www.youtube.com/@simpleclub_physik/playlists) – anschauliche kurze Animationen zu Grundthemen der Physik.
+- [simpleclub Mathe](https://www.youtube.com/@simpleclub_mathe) – Erklärungen zu grundlegenden mathematischen Methoden, z. B. Statistik und Regression.
+- [The Nilsor](https://www.youtube.com/@TheNilsor) – Kurze Erklärvideos zu physikalischen Konzepten.
+- [Physikcoach](https://www.youtube.com/@physikcoach) – spezielle Tutorials zur Fehlerrechnung, Messunsicherheit, Auswertung und mehr.
+- [Alexander Stöger](https://www.youtube.com/@et5m/featured) – vor allem Elektrotechnik, Messtechnik, ...
+- [Jörn Loviscach](https://www.youtube.com/@JoernLoviscach) – breite Palette von mathematischen und informatischen Lehrvideos, u. a. zu Statistik und Visualisierung.
 
 ### Englisch
 
-- [PBS Spacetime](https://www.youtube.com/@pbsspacetime)
-- [Eugene Khutoryansky](https://www.youtube.com/@EugeneKhutoryansky/featured)
-- [Khan Academy](https://www.youtube.com/@khanacademy)
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-- [Physics with Elliot](https://www.youtube.com/@PhysicswithElliot)
-- [Veritasium](https://www.youtube.com/@veritasium)
-- [Walter Lewin](https://www.youtube.com/@lecturesbywalterlewin.they9259)
-- [MIT OpenCourseWare](https://www.youtube.com/@mitocw)
-- [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder)
-- [VT Physics](https://www.youtube.com/@vt.physics/featured)
+- [PBS Spacetime](https://www.youtube.com/@pbsspacetime) – tiefergehende Videos zu moderner Physik (Teilchenphysik, Relativität, Quantenmechanik).
+- [Eugene Khutoryansky](https://www.youtube.com/@EugeneKhutoryansky/featured) – animierte Visualisierungen komplexer physikalischer Konzepte.
+- [Khan Academy](https://www.youtube.com/@khanacademy) – umfangreiche Kurse zu Mathematik, Statistik und Physik; gut strukturiert, oft schulnah.
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown) – intuitiv visuelle Mathematik (z. B. lineare Algebra, Differentialgleichungen), auch Beiträge zu Monte‑Carlo‑Methoden.
+- [Physics with Elliot](https://www.youtube.com/@PhysicswithElliot) – verständliche Erklärvideos zu fundamentaler Physik (Spektroskopie, Quantenmechanik).
+- [Veritasium](https://www.youtube.com/@veritasium) – populärwissenschaftliche Videos, oft mit Experimenten und Diskussion von Messungen.
+- [Walter Lewin](https://www.youtube.com/@lecturesbywalterlewin.they9259) – legendäre Vorlesungs‑Ausschnitte aus dem MIT; visuelle Demonstrationen.
+- [MIT OpenCourseWare](https://www.youtube.com/@mitocw) – komplette Vorlesungen, aber auch einzelne Clips zu Messmethoden (NMR, Optisches Pumpen).
+- [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder) – wissenschaftlich fundierte Erklärvideos zu Quantenphysik, Kosmologie und experimentellen Methoden.
+- [VT Physics](https://www.youtube.com/@vt.physics/featured) – A‑Level‑Level‑Tutorials und Live‑Lectures zu Physik und Fehlerrechnung.
 
 ## 🐍 Python & Hilfswebseiten
 
@@ -47,6 +47,8 @@ Diese Sammlung gruppiert nützliche Video‑Kanäle, Webseiten und konkrete Vide
 - [Alexander Stöger – Messgenauigkeit digitaler Messgeräte (Deutsch)](https://www.youtube.com/watch?v=qmCOUav9LQc)
 - [Alexander Stöger – Messgenauigkeit analoger Messgeräte (Deutsch)](https://www.youtube.com/watch?v=qGqCBvHqo44)
 - [VT Physics (Englisch, A Level)](https://www.youtube.com/watch?v=eVloUWTkpbI)
+
+Diese Ressourcen eignen sich als Nachschlagewerke und für eigene Simulationen. Die Kombination aus Jupyter, NumPy/SciPy und Matplotlib ermöglicht die Auswertung von Versuchsdaten, das Durchführen von Monte‑Carlo‑Simulationen und das Anpassen von Kurven.
 
 ### Fehlerfortpflanzung
 
