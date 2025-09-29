@@ -1,14 +1,11 @@
 ---
 description: >-
-  Advanced Laboratory Classes (FP-I & FP-II) — Physics B.Sc., M.Sc., and M.Ed. —
-  University of Freiburg, Department of Physics
+  You are embarking on a journey toward independent work, but you are not alone.
+  This Compact establishes our mutual commitments as we work together—students
+  and tutors as partners  in discovery.
 ---
 
 # Part 0 · Lab Alliance Compact
-
-#### Our Commitment
-
-You are embarking on a journey toward independent scientific work, and **you are not alone**. This Compact establishes our mutual commitments as we work together—students and tutors as partners in discovery.
 
 ### Core Principles
 
