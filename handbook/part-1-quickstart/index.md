@@ -39,8 +39,7 @@ A well-planned start prevents last-minute stress and ensures a productive lab we
 
 ## Communication & Support
 
-* **Lecturer:** Prof. Dr. Karl Jakobs
-* **Organization team:** Dr. Christof Bartels, Dr. Christian Weiser & Dr. Ulrich Warring – ✉️ fp@physik.uni-freiburg.de
+* **Organization team:** ✉️ fp@physik.uni-freiburg.de
 * **Tutors:** Assigned per experiment; contact via ILIAS messaging or institutional email.
 
 For organizational or scheduling issues, contact the coordinator. Technical and experiment-specific questions should be directed to your tutor. When in doubt, ask early.
