@@ -4,6 +4,8 @@
 * [Part 0 · Lab Alliance Compact](handbook/part-0-lab-alliance-compact/index.md)
   * [Acknowledgment](handbook/part-0-lab-alliance-compact/ACKNOWLEDGMENT.md)
   * [ERB Charter Outline](governance/erb-charter-outline.md)
+* [Part 0 – Ethics, Academic Integrity & Examination Rules](handbook/part0-ethics-exam-rules.md)
+  * [Pre-quiz self-check](handbook/assets/part0-checklist.md)
 * [Part 1 · Quick Start Guide & Navigation](handbook/part-1-quickstart/index.md)
 * [Part 2 · Organization & Framework](handbook/part-2-organization/index.md)
 * [Part 3 · Scientific Integrity & Lab Notes](handbook/part-3-integrity-labnotes/index.md)
