@@ -1,8 +1,6 @@
-# Part 0 – Ethics, Academic Integrity & Examination Rules
+# Ethics, Academic Integrity & Safety Rules
 
-## Part 0 — Ethics, Academic Integrity & Safety Rules
-
-### 0.0 Legal & Institutional Basis
+## 0.0 Legal & Institutional Basis
 
 These advanced lab courses are bound by the **University of Freiburg’s Regulations on Safeguarding Academic Integrity** and by the **Study & Examination Regulations (SPO)** of the corresponding degree programs. In the event of conflict, the **official statutes prevail**. Key references:
 

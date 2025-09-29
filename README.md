@@ -14,7 +14,7 @@ This handbook is maintained for instructional convenience and evolves alongside 
 
 If you identify conflicts, omissions, or urgent risks, please contact the course coordination team or the Studiendekan without delay so corrective action can be taken.
 
-> **Academic integrity & exams** The advanced lab classes follow the University of Freiburg’s integrity and examination regulations. See [**Part 0 — Ethics, Academic Integrity & Examination Rules**](handbook/part0-ethics-exam-rules.md) for the compact, procedures, and program-specific links (Physics B.Sc./M.Sc., Master of Education). A mandatory quiz is completed on **ILIAS** per program.
+> **Academic integrity & exams** The advanced lab classes follow the University of Freiburg’s integrity and examination regulations. See [**Part 0 — Ethics, Academic Integrity & Examination Rules**](index/part0-ethics-exam-rules.md) for the compact, procedures, and program-specific links (Physics B.Sc./M.Sc., Master of Education). A mandatory quiz is completed on **ILIAS** per program.
 
 ### Administrative Contacts
 
